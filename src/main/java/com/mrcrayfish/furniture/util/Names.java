@@ -491,6 +491,7 @@ public class Names
         public static final String KITCHEN_SINK = Reference.MOD_ID + ":kitchen_sink";
         public static final String FRIDGE = Reference.MOD_ID + ":fridge";
         public static final String FREEZER = Reference.MOD_ID + ":freezer";
+        public static final String PHOTO_FRAME = Reference.MOD_ID + ":photo_frame";
     }
 
     public static class Sound
